@@ -1,0 +1,7 @@
+lab*/parent
+lab*/child1
+lab*/child2
+lab*/a.out
+lab*/build/
+*.o
+*.out
